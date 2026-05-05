@@ -1,0 +1,11 @@
+{
+    "display_name": "星空 · Celestial Mobile",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "celestial-theme",
+    "version": "1.0.0",
+    "auto_update": false
+}
